@@ -11,4 +11,4 @@ Self-teaching NN
 **Environment:** Google Colab
 
 # References
-Yoshua Bengio’s great 2012 paper18: https://arxiv.org/abs/1206.5533, which presents many practical recommendations for deep networks.
+Yoshua Bengio, 2012, https://arxiv.org/abs/1206.5533 (presents many practical recommendations for deep networks)
