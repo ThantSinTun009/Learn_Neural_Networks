@@ -31,6 +31,8 @@ The chapter covers:
 - Advanced optimization methods that speed up training  
 - Regularization techniques to reduce overfitting  
 
-## Conclusion
-
 With these tools, training very deep neural networks becomes possible -- Welcome to Deep Learning! 🚀
+
+## References
+
+Xavier Glorot, Yoshua Bengio, 2010, https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
