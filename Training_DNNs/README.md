@@ -6,16 +6,20 @@ However, training deep neural networks is challenging for several reasons.
 
 ## Challenges
 
-1. Vanishing or Exploding Gradients
+# 1. Vanishing or Exploding Gradients
+
 In deep networks, gradients can become too small or too large, making the earlier layers very difficult to train.
 
-2. Limited Labeled Data
+# 2. Limited Labeled Data
+
 Large neural networks require a large amount of labeled data, which can be expensive or difficult to obtain.
 
-3. Slow Training
+# 3. Slow Training
+
 Training very deep models with many parameters can take a long time.
 
 4. Overfitting
+
 Models with millions of parameters can easily overfit the training data, especially when the dataset is small or noisy.
 
 ## What This Chapter Covers
