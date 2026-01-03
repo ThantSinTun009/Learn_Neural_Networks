@@ -26,10 +26,10 @@ However, training deep neural networks is challenging for several reasons.
 
 In this chapter, each of these problems is explained step by step, along with practical techniques to solve them.  
 The chapter covers:
-- Solutions to the vanishing or exploding gradients problem  
-- Transfer learning and unsupervised pretraining for limited data  
-- Advanced optimization methods that speed up training  
-- Regularization techniques to reduce overfitting  
+- 🧠 Solutions to the vanishing or exploding gradients problem
+- 🔁 Transfer learning and unsupervised pretraining for limited data
+- ⚡ Advanced optimization methods that speed up training
+- 🛡️ Regularization techniques to reduce overfitting
 
 With these tools, training very deep neural networks becomes possible -- Welcome to Deep Learning! 🚀
 
