@@ -36,3 +36,9 @@ With these tools, training very deep neural networks becomes possible -- Welcome
 ## References
 
 Xavier Glorot, Yoshua Bengio, 2010, https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
+
+How to deal: https://medium.com/dscier/how-to-deal-with-vanishing-and-exploding-gradients-in-neural-networks-24eb00c80e84
+
+Vanishing & Exploding GD: https://medium.com/@venkatyogesh003/understanding-vanishing-and-exploding-gradients-in-deep-learning-61a5f38d1605
+
+Glorot and He Initialization: https://medium.com/@sanjay_dutta/understanding-glorot-and-he-initialization-a-guide-for-college-students-00f3dfae0393
