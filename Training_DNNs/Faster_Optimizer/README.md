@@ -15,4 +15,4 @@ In this section, we will present the most popular ones:
 
 ### References
 
-"Some methods of speeding up the convergence of iteration methods,” B. Polyak (1964)
+"Some methods of speeding up the convergence of iteration methods,” B. Polyak (1964): https://hengshuaiyao.github.io/papers/polyak64.pdf
