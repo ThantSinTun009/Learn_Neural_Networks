@@ -6,7 +6,7 @@ Training a very large deep neural network can be painfully slow. So far we have 
 
 In this section, we will present the most popular ones:
 - Momentum optimization
-- Nesterov Accelerated Gradient,
+- Nesterov Accelerated Gradient
 - AdaGrad
 - RMSProp and
 - Adam and Nadam optimization
