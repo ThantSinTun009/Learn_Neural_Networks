@@ -13,6 +13,6 @@ In this section, we will present the most popular ones:
 
 ---
 
-# References
+### References
 
 "Some methods of speeding up the convergence of iteration methods,” B. Polyak (1964)
