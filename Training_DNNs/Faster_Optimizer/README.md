@@ -13,6 +13,17 @@ In this section, we will present the most popular ones:
 
 ---
 
+| Optimizer | Key Idea             | Best For             |
+| --------- | -------------------- | -------------------- |
+| Momentum  | Uses past gradients  | Faster SGD           |
+| NAG       | Looks ahead          | More stable momentum |
+| AdaGrad   | Feature-wise LR      | Sparse data (NLP)    |
+| RMSProp   | Adaptive LR (recent) | RNNs                 |
+| Adam      | Momentum + RMSProp   | **Default choice** for most ML/DL, CNNs...   |
+| Nadam     | Adam + Nesterov      | Advanced models      |
+
+---
+
 ### References
 
 "Some methods of speeding up the convergence of iteration methods,” B. Polyak (1964): https://hengshuaiyao.github.io/papers/polyak64.pdf
