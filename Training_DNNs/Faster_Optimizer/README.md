@@ -18,7 +18,7 @@ In this section, we will present the most popular ones:
 | Momentum  | Uses past gradients  | Faster SGD           |
 | NAG       | Looks ahead          | More stable momentum |
 | AdaGrad   | Feature-wise LR      | Sparse data (NLP)    |
-| RMSProp   | Adaptive LR (recent) | RNNs                 |
+| RMSProp   | Adaptive LR (recent) | RNNs, LSTMs          |
 | Adam      | Momentum + RMSProp   | **Default choice** for most ML/DL, CNNs...   |
 | Nadam     | Adam + Nesterov      | Advanced models      |
 
