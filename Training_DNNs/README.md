@@ -33,6 +33,8 @@ The chapter covers:
 
 With these tools, training very deep neural networks becomes possible -- Welcome to Deep Learning! 🚀
 
+<img width="489" height="353" alt="image" src="https://github.com/user-attachments/assets/e23d0368-fbb0-44ea-b3f5-789b728c9ede" />
+
 ## References
 
 Xavier Glorot, Yoshua Bengio, 2010, https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
