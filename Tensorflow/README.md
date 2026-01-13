@@ -1,6 +1,5 @@
-<p align="center">
-  <h2>Custom Models & Training with TensorFlow</h2>
-</p>
+## Custom Models & Training with TensorFlow</h2>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow" width="90" />
