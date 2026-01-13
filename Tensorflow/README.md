@@ -1,7 +1,7 @@
 ## Custom Models & Training with TensorFlow
 
-Application of one of the most popular Deep Learning frameworks:
+Dive into building **custom deep learning models** using one of the most popular frameworks, TensorFlow. This section highlights hands-on experience in model design, training, and optimization.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="100" />
 </p>
