@@ -1,4 +1,4 @@
-## Custom Models & Training with TensorFlow</h2>
+## **Custom Models & Training with TensorFlow**
 
 <img width="500" height="150" alt="image" src="https://github.com/user-attachments/assets/be330bf1-dcc2-49c2-b4a5-9a846d1ecb38" />
 
