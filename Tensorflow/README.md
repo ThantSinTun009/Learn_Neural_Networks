@@ -1,5 +1,5 @@
 <p align="center">
-  <h2> Custom Models & Training with TensorFlow</h2>
+  <h2>Custom Models & Training with TensorFlow</h2>
 </p>
 
 <p align="center">
