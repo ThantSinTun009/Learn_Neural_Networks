@@ -67,5 +67,3 @@ Generated Answer
 7. Generate a grounded response.
 
 ---
-
-**Note:** This repository is intended for educational purposes and serves as a playground for exploring Retrieval-Augmented Generation concepts and implementations.
